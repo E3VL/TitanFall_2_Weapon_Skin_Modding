@@ -1,22 +1,11 @@
-# TitanFall2_Weapon_Skin_Modding
-Various Resources for Skin Making in Titanfall 2.
-This Repo will have the provided guides and downloads you'll need to make skins or even just download them.
-<br>
-<br>
-<br>
+---
+description: Guides made by the community for the community.
+cover: .gitbook/assets/wrench_gamign.png
+coverY: 106
+---
 
-**PLEASE USE THIS WEBSITE TO DOWNLOAD SPECIFIC FOLDERS.**<br>https://download-directory.github.io<br>
-**SIMPLY COPY THE FOLDER URL WHEN YOU WANT TO DOWNLOAD.**<br><br>
-<br><br>
-<br><br>
-![image](https://user-images.githubusercontent.com/23240514/151678542-c5f65e38-01e3-4d17-b066-79ad5897a90e.png)<br>
-V
-<br>
-V
-<br>
-V
-<br>
+# Titanfall 2 Skin Creation Guide
 
-![image](https://user-images.githubusercontent.com/23240514/151678520-78e7919f-a0b2-4bfb-b37b-57f9b81fc596.png)<br>
+## This is an advanced skin creation and in depth community and wiki for Titanfall 2 Skins.
 
-*PRESS ENTER AND ENJOY!*
+Join our dedicated discord at: [https://discord.gg/v9WCVdzh](https://discord.gg/v9WCVdzh)
