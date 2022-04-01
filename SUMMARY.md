@@ -10,16 +10,16 @@
 
 ## 😁 Extra Info <a href="#ms" id="ms"></a>
 
-* [UVs](ms/uvs.md)
-* [Texture maps](ms/texture-maps.md)
+* [UVs](ms/texture-maps.md)
+* [Texture maps](<ms/texture-maps (1).md>)
 * [Formats](ms/formats.md)
 * [Tools](ms/tools.md)
 
 ## 🃏 Guides (basics)
 
 * [Skin making basics](guides-basics/skin-making-basics.md)
-* [Blender](guides-basics/blender.md)
 * [Substance](guides-basics/substance.md)
+* [Blender](guides-basics/blender.md)
 * [Pilot editing](guides-basics/pilot-editing.md)
 
 ## GUIDES (advanced)
