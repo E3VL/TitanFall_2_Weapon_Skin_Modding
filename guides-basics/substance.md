@@ -16,13 +16,13 @@ You should save your project now to actually not just have an unnamed project an
 
 The next important step is baking your mesh maps. On the right you can see your layers and next to it are your texture set settings.
 
-![](<../.gitbook/assets/grafik (1).png>)
+![](<../.gitbook/assets/grafik (1) (1).png>)
 
 If you don’t see the textures set settings window you need to open them further on the right.
 
 Scrolling down a bit you can see your channels. Click the plus to add ones called emission and ambient occlusion. You should not remove anything if you have used the right Template.
 
-![](<../.gitbook/assets/grafik (17).png>)
+![](<../.gitbook/assets/grafik (17) (1).png>)
 
 Scroll down a bit and click on bake mesh maps.
 

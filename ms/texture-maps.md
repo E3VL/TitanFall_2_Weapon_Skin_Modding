@@ -16,11 +16,11 @@ The Yellow Square is a selected Vertex.
 
 The orange lines are the Edges connecting to it.
 
-![](<../.gitbook/assets/grafik (1) (1).png>)
+![](<../.gitbook/assets/grafik (1) (1) (1).png>)
 
 And this is one of the Faces.
 
-![](<../.gitbook/assets/grafik (3) (1).png>)
+![](<../.gitbook/assets/grafik (3) (1) (1).png>)
 
 As u can see this cube is completely grey, in game we want more detail and colour to it obviously so how does that work. Well, you probably know what Textures are. 2d images describing an objects colour in certain places and other properties that I will explain later.
 

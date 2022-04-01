@@ -24,13 +24,13 @@ Defines how shiny or matt parts of the guns are, make sure to not have perfectly
 
 Makes parts of the gun glow, the brighter the value the brighter the glow, it doesn’t replace any colour underneath, be careful as Titanfall has bloom and it can get out of hand fast. Without bloom emission looks a bit worse.
 
-![](<../.gitbook/assets/grafik (5).png>)
+![](<../.gitbook/assets/grafik (5) (1).png>)
 
 ### Ambient occlusion:
 
 Just places that are supposed to be darker cuz less light could bounce back to the camera, so basically baked shadows. This is one of the first but not last examples where you can see that substances generators, its baked mesh maps and for example the textures from Titanfall differ by a lot at times.
 
-![](<../.gitbook/assets/grafik (12).png>)
+![](<../.gitbook/assets/grafik (12) (1).png>)
 
 ### The normal map:
 
@@ -38,7 +38,7 @@ This is a complicated one. The one you get out of the game is green, we cant use
 
 The normal maps purpose is to make light reflect differently of a surface then it would with the actual angle to the Lightsource of that surface. So to save performance and aovid capturing every little detail with geometry you can instead have a flat face and create the illusion of a screw trough the normal map.
 
-![](../.gitbook/assets/grafik.png)
+![](<../.gitbook/assets/grafik (3).png>)
 
 ![](<../.gitbook/assets/grafik (9).png>)
 
@@ -52,7 +52,7 @@ It basically defines how metallic a part of the model looks, if u don’t want s
 
 This map has basically the same effect as AO but its constricted to the tightest of crevasses, I have yet to see anything other then Titanfall use this. Substance doesn’t even include it in its channels so the only use u might get from it is to import it and use it as some mask for a certain effect or something like that. Just use the base games in the skin tool.
 
-![](<../.gitbook/assets/grafik (21).png>)
+![](<../.gitbook/assets/grafik (21) (1).png>)
 
 Height:
 

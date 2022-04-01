@@ -10,7 +10,7 @@ description: 'By: Alice'
 
 Once you have all your files that you want to use from the game extracted, those being the ptpov\_weaponname for the model and all the guns textures, you should open the modelling software of your choice and fix a few things to make working with it later on easier.
 
-![](<../.gitbook/assets/grafik (2).png>)
+![](<../.gitbook/assets/grafik (2) (1).png>)
 
 So with the charge rifle imported (ptpov\_defender\_v\_defender in files) it is already obvious that its rotation is wrong. This is due to certain programs having a different order in its axis and as you can see it is already rotated by -90° so in my case I just need to set this to 0.
 
@@ -28,7 +28,7 @@ The next relevant step is a little bit more hidden but looking at the UVs it bec
 
 Here I have selected a face UV shell that is taking up all of the 1:1 UV space, this comes with the models as another issue trough conversion.
 
-![](<../.gitbook/assets/grafik (6).png>)
+![](<../.gitbook/assets/grafik (6) (1).png>)
 
 Focusing on it in 3D view shows that it’s a one unity big quad inside of the gun. Simply delete it as this taking up the entire UV space will cause issues.
 
@@ -40,7 +40,7 @@ Now Export it and open Substance Painter. Make sure to Export as an .fbx as its 
 
 Under File you need to click export textures.
 
-![](<../.gitbook/assets/grafik (3).png>)
+![](<../.gitbook/assets/grafik (3) (1).png>)
 
 Here you can set your output directory to wherever youd like.&#x20;
 
