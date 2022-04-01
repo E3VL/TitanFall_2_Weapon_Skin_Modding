@@ -10,6 +10,7 @@
 
 ## 😁 Extra Info <a href="#ms" id="ms"></a>
 
+* [UVs](ms/uvs.md)
 * [Texture maps](ms/texture-maps.md)
 * [Formats](ms/formats.md)
 * [Tools](ms/tools.md)
