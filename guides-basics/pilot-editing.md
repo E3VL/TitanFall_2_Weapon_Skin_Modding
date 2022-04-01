@@ -2,7 +2,7 @@
 description: 'By: Alice'
 ---
 
-# Stim Model Manipulation&#x20;
+# Pilot editing
 
 
 

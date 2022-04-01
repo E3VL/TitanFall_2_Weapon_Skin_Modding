@@ -10,14 +10,18 @@
 
 ## 😁 Extra Info <a href="#ms" id="ms"></a>
 
+* [Texture maps](ms/texture-maps.md)
 * [Formats](ms/formats.md)
 * [Tools](ms/tools.md)
 
 ## 🃏 Guides (basics)
 
-* [Skin making basics (not finished)](guides-basics/skin-making-basics-not-finished.md)
-* [Stim Model Manipulation ](guides-basics/stim-model-manipulation.md)
+* [Skin making basics](guides-basics/skin-making-basics.md)
+* [Blender](guides-basics/blender.md)
+* [Substance](guides-basics/substance.md)
+* [Pilot editing](guides-basics/pilot-editing.md)
 
 ## GUIDES (advanced)
 
-* [Green Marble and Gold CAR](guides-advanced/green-marble-and-gold-car.md)
+* [Working with Substance](guides-advanced/working-with-substance.md)
+* [Helpfull extras](guides-advanced/helpfull-extras.md)

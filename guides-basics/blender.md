@@ -2,7 +2,7 @@
 description: 'By: E3VL'
 ---
 
-# Skin making basics (not finished)
+# Blender
 
 ## Info
 
