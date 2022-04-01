@@ -16,13 +16,13 @@ You should save your project now to actually not just have an unnamed project an
 
 The next important step is baking your mesh maps. On the right you can see your layers and next to it are your texture set settings.
 
-![](<../.gitbook/assets/grafik (1) (1) (1).png>)
+![](<../.gitbook/assets/grafik (1) (1) (1) (1).png>)
 
 If you don’t see the textures set settings window you need to open them further on the right.
 
 Scrolling down a bit you can see your channels. Click the plus to add ones called emission and ambient occlusion. You should not remove anything if you have used the right Template.
 
-![](<../.gitbook/assets/grafik (17) (1) (1).png>)
+![](<../.gitbook/assets/grafik (17) (1) (1) (1).png>)
 
 Scroll down a bit and click on bake mesh maps.
 
@@ -44,7 +44,7 @@ On the left there is your 3D View, on the left your 2D UV layout, by pressing f2
 
 You usually start of by thinking of a design and then creating a fill layer, changing its attributes to resemble some basic aspect like, for metal you could create something grey in spec and have a bright value in its gloss spot to make it very shiny, these values are set in the properties under your layers. Then you should create a folder that you place that fill layer in, add a mask, masks are more see trough on brighter values and more opaque on darker values. In that mask you add a paint effect under your effects dropdown.
 
-![](<../.gitbook/assets/grafik (14) (1).png>)
+![](<../.gitbook/assets/grafik (14) (1) (1).png>)
 
 In this paint you can now easily edit the mask and define on what parts of the gun you want your folder to be visible, you can edit the mask directly but this is hard to manipulate or change later so id advise against that. The easiest way to restrict your materials to certain parts is to go all the way to the left of substance, and then the 4th tool from top called polygon fill will be useful here. You can select between polygon and triangle fill, as all models extracted from engines are already triangulated these are effectively the same, the UV chunk fill which selects your individual continuous UV shells that you clicked on, visible in the UV view, or your object fill mode you are currently working on an whole Model but it is still made up of individual surfaces which are not connected, and these are what you are selecting here.
 

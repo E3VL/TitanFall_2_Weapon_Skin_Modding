@@ -16,7 +16,7 @@ The Yellow Square is a selected Vertex.
 
 The orange lines are the Edges connecting to it.
 
-![](<../.gitbook/assets/grafik (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/grafik (1) (1) (1) (1) (1).png>)
 
 And this is one of the Faces.
 

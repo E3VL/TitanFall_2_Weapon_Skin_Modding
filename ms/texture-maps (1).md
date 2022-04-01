@@ -12,13 +12,13 @@ Now ill cover what which texture map does.
 
 It simply defines the RGB value of a given part of the gun and nothing else.
 
-![](<../.gitbook/assets/grafik (10) (1).png>)
+![](<../.gitbook/assets/grafik (10) (1) (1).png>)
 
 ### Glossines(sometimes roughness is used instead however the two are not the same):
 
 Defines how shiny or matt parts of the guns are, make sure to not have perfectly flat values for your material as nothing is ever perfectly even, even if u want to make a really smooth surface make sure to have extremely subtle imperfections, this is just how realism works and since none of you will make their own models a realistic style just fits best. Brighter = shinyer.
 
-![](<../.gitbook/assets/grafik (19) (1).png>)
+![](<../.gitbook/assets/grafik (19) (1) (1).png>)
 
 ### Emission or Illumination (this time they are interchangeable):
 
@@ -46,13 +46,13 @@ The normal maps purpose is to make light reflect differently of a surface then i
 
 It basically defines how metallic a part of the model looks, if u don’t want something to look metallic at all leave it at its base value, want a purple metal, change the diffuse for all parts where it should have that property to black and then set your spec to that purple. Specular is actually RGB even if it might not look like it in this example.
 
-![](<../.gitbook/assets/grafik (7) (1).png>)
+![](<../.gitbook/assets/grafik (7) (1) (1).png>)
 
 ### Cavity:
 
 This map has basically the same effect as AO but its constricted to the tightest of crevasses, I have yet to see anything other then Titanfall use this. Substance doesn’t even include it in its channels so the only use u might get from it is to import it and use it as some mask for a certain effect or something like that. Just use the base games in the skin tool.
 
-![](<../.gitbook/assets/grafik (21) (1) (1).png>)
+![](<../.gitbook/assets/grafik (21) (1) (1) (1).png>)
 
 Height:
 
