@@ -4,7 +4,7 @@
 
 **If you do not have the default textures, you are in luck** :https://github.com/BigSpice/TitanFall-2-Skin-Modding/tree/main/Textures/Compiled%20textures **Download whatever gun you want to revert back to normal and now just import it like normal**
 
-***
+##
 
 In this tutorial I will show you how to pack a skin using zxcPandora's skin tool. **In this tutorial I am assuming you have already made the skin or are just replacing a current skin with default** | **WARNING PLEASE DOWNLOAD THE SKIN MAKER TOOL, NOT USER** https://github.com/zxcPandora/Titanfall2-SkinTool/releases Now that you have downloaded the skin tool maker, please run the tool and set the correct game path.&#x20;
 
