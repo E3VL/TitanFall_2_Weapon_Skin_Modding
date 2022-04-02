@@ -10,11 +10,11 @@ description: 'By: Alice'
 
 Once you have all your files that you want to use from the game extracted, those being the ptpov\_weaponname for the model and all the guns textures, you should open the modelling software of your choice and fix a few things to make working with it later on easier.
 
-![](<../.gitbook/assets/grafik (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (2) (1) (1) (1).png>)
 
 So with the charge rifle imported (ptpov\_defender\_v\_defender in files) it is already obvious that its rotation is wrong. This is due to certain programs having a different order in its axis and as you can see it is already rotated by -90° so in my case I just need to set this to 0.
 
-![](<../.gitbook/assets/grafik (20) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (20) (1) (1).png>)
 
 Your gun will most likely disappear when u rotate it like that as it does not rotate around its centre of mass which will be fixed in a bit although this is optional. You can also see that its Scale is at 100, the reason for that is similar to the one for the rotation. While this does not matter for Substance Painter it is still best practice to work as cleanly as possible.
 
@@ -24,11 +24,11 @@ Depending on what you did in Legion your files might come with a rig/bones or ha
 
 The next relevant step is a little bit more hidden but looking at the UVs it becomes more obvious. (I had to switch to my Hemloks file as this issue did not occur with the charge rifle.)
 
-![](<../.gitbook/assets/grafik (13) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (13) (1) (1).png>)
 
 Here I have selected a face UV shell that is taking up all of the 1:1 UV space, this comes with the models as another issue trough conversion.
 
-![](<../.gitbook/assets/grafik (6) (1) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (6) (1) (1) (1).png>)
 
 Focusing on it in 3D view shows that it’s a one unity big quad inside of the gun. Simply delete it as this taking up the entire UV space will cause issues.
 
@@ -40,7 +40,7 @@ Now Export it and open Substance Painter. Make sure to Export as an .fbx as its 
 
 Under File you need to click export textures.
 
-![](<../.gitbook/assets/grafik (3) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (3) (1) (1).png>)
 
 Here you can set your output directory to wherever youd like.&#x20;
 
