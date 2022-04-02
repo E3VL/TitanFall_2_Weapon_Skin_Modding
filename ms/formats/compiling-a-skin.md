@@ -2,7 +2,7 @@
 
 **THE BELOW IS FOR PEOPLE WHO JUST WANT TO REVERT BACK TO DEFAULT SKINS. IF YOU DO NOT WISH FOR THIS JUST SKIP PAST**
 
-**If you do not have the default textures, you are in luck** :https://github.com/BigSpice/TitanFall-2-Skin-Modding/tree/main/Textures/Compiled%20textures **Download whatever gun you want to revert back to normal and now just import it like normal**
+**If you do not have the default textures, you are in luck** :https://github.com/BigSpice/TitanFall-2-Skin-Modding/tree/main/Textures/Compiled%20textures **Download whatever gun you want to revert back to normal, and now just install it like any other skin.**
 
 ##
 
