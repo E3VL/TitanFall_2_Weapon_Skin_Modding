@@ -6,6 +6,6 @@ In case you feel like something is out of place, not accurate, outdated, or if y
 
 ### Contacting us
 
-Permanent & Public link for our Discord server: [Titanfall 2 Skin Community](https://discord.gg/v9WCVdzh)
+Permanent & Public link for our Discord server: [<mark style="color:blue;">Titanfall 2 Skin Community</mark>](https://discord.gg/v9WCVdzh)<mark style="color:blue;"></mark>
 
-You can also reach us in the skin channels of the Northstar discord: [https://discord.gg/northstar](https://discord.gg/northstar).
+You can also reach us in the skin channels of the Northstar discord: [<mark style="color:blue;">https://discord.gg/northstar</mark>](https://discord.gg/northstar).
