@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Contributing and Contact
 
 ### Contributing

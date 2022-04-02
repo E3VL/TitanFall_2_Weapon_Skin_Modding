@@ -2,7 +2,6 @@
 description: Guides made by the community for the community.
 cover: .gitbook/assets/wrench_gamign.png
 coverY: 79.09691629955957
-layout: landing
 ---
 
 # Titanfall 2 Skin Creation Guide
