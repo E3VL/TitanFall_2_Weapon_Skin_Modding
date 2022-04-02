@@ -8,4 +8,4 @@ coverY: 79.09691629955957
 
 ## This is an advanced skin creation and in depth community and wiki for Titanfall 2 Skins.
 
-Join our dedicated discord at: [<mark style="color:blue;">https://discord.gg/v9WCVdzh</mark>](https://discord.gg/v9WCVdzh)<mark style="color:blue;"></mark>
+Join the Titanfall 2 Skin Community discord at: [<mark style="color:blue;">https://discord.gg/v9WCVdzh</mark>](https://discord.gg/v9WCVdzh)<mark style="color:blue;"></mark>
