@@ -2,7 +2,9 @@
 
 ### Contributing
 
-In case you feel like something is out of place, not accurate, outdated, or if you just want to contribute. Simply go to this link [https://app.gitbook.com/invite/AgVTjGiXI8sZUhArKpgV/vbtNjP57LCAkfMSh5XCI](https://app.gitbook.com/invite/AgVTjGiXI8sZUhArKpgV/vbtNjP57LCAkfMSh5XCI). Once you are done, submit what you have done for review, then Join our [discord](https://discord.gg/McPneWpSTJ) with the link of ur edit and post it in #git-suggestions-links .
+In case you feel like something is out of place, not accurate, outdated, or if you just want to contribute. \
+Go to this link: [<mark style="color:blue;">https://app.gitbook.com/invite/AgVTjGiXI8sZUhArKpgV/vbtNjP57LCAkfMSh5XCI</mark>](https://app.gitbook.com/invite/AgVTjGiXI8sZUhArKpgV/vbtNjP57LCAkfMSh5XCI) <mark style="color:blue;"></mark> \
+Once you are done with your changes, submit what you have done for review, then join our [discord server](https://discord.gg/v9WCVdzh) with the link of your change request and post it in #git-suggestions-links .
 
 ### Contacting us
 
