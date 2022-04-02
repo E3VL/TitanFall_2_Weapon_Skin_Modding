@@ -25,6 +25,6 @@
 
 ## GUIDES (advanced)
 
-* [Working with Substance](guides-advanced/working-with-substance.md)
-* [Helpful extras](guides-advanced/helpful-extras.md)
-* [Metal with useful tips](guides-advanced/metal-with-useful-tips.md)
+* [Working with Substance](guides-advanced/working-with-substance/README.md)
+  * [Helpful extras](guides-advanced/working-with-substance/helpful-extras.md)
+  * [Metal with useful tips](guides-advanced/working-with-substance/metal-with-useful-tips.md)

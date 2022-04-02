@@ -44,3 +44,52 @@ Now locate your add-on and install as shown
 
 ## Importing the model
 
+To import our model, we simply just need to go the to top left of our screen "file" then "import" and now click "source engine". Once it opens up the file explorer tab, now just look for the model you downloaded and double left click it.&#x20;
+
+Sometimes models can take a second to load so dont click anything while ur waiting for it to load in.\
+You are now done importing the model (yay)
+
+## Moving and rotating our model
+
+THIS IS JUST FOR A CLEANER WORKSPACE, FEEL FREE TO SKIP THIS PORTION IF YOU DONT CARE
+
+![](../../.gitbook/assets/Captudwadwasdware.PNG)
+
+Following the above image, we need to make sure that magnet is now blue and same with the "rotate" text below it.\
+Before we continue, you may notice some weird things spawned in with the model like shown in the below image.&#x20;
+
+![](<../../.gitbook/assets/Screenshot (385).png>)
+
+We can delete all of the spheres, the kill tracker, and any sights that arent default.\
+Now you may be saying "my model is split up into parts" to solve this, simply hold left shift and select the other parts of the gun, when everything is selected, right click then "join" .\
+Now we can move on to rotating and moving our model.\
+
+
+Select the model in question, and in the top right you should see the x, y, and z axis. Click the X axis and it should look like this after.&#x20;
+
+![](<../../.gitbook/assets/Screenshot (386) (1).png>)
+
+Now select the rotate tool. Its the one that has a stop sign in the middle with arrows rotating around it. Now, on the red line, hold left click and rotate the model left to a perfect 90 degree rotate.\
+Now select the move tool and line up the model with the blue line going down our screen.&#x20;
+
+## Texturing our model
+
+There is multiple ways to go about this in Blender, today im just going to show you a very simple way.\
+We need to change our workstation to "texture paint" now.
+
+![](../../.gitbook/assets/Capturiue.PNG)
+
+Once in the texture paint tab, follow the below image.
+
+![](<../../.gitbook/assets/Screenshot (387)\_LI.jpg>)
+
+Once our texture mode is set to "single image" we can now import whatever texture map we want.\
+To acquire the texture for the model you are editing, simply head to [https://github.com/BigSpice/TitanFall-2-Skin-Modding/tree/main/Textures](https://github.com/BigSpice/TitanFall-2-Skin-Modding/tree/main/Textures)
+
+Now, you should have downloaded the correct textures. Simply go to the "open" button  on the right side as demonstrated below to open a file explore tab.
+
+![](../../.gitbook/assets/Capturwadasdwe.PNG)
+
+Now locate the texture you want to edit and just open it.\
+Congrats, you have now successfully imported a model and textured it.\
+(A more advanced tutorial may come soon)
