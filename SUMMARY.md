@@ -11,6 +11,7 @@
 ## 😁 Extra Info <a href="#ms" id="ms"></a>
 
 * [Formats](ms/formats/README.md)
+  * [Compiling a skin](ms/formats/compiling-a-skin.md)
   * [Tools](ms/formats/tools.md)
   * [Texture maps](ms/formats/texture-maps.md)
   * [UVs](ms/formats/uvs.md)
