@@ -10,21 +10,24 @@
 
 ## 😁 Extra Info <a href="#ms" id="ms"></a>
 
-* [Formats](ms/formats/README.md)
-  * [Compiling a skin](ms/formats/compiling-a-skin.md)
-  * [Tools](ms/formats/tools.md)
-  * [Texture maps](ms/formats/texture-maps.md)
-  * [UVs](ms/formats/uvs.md)
+* [Genral information](ms/genral-information/README.md)
+  * [UVs](ms/genral-information/uvs.md)
+  * [Texture maps](ms/genral-information/texture-maps.md)
+  * [Formats](ms/genral-information/formats.md)
+  * [Tools](ms/genral-information/tools.md)
+  * [Compiling a skin](ms/genral-information/compiling-a-skin.md)
 
 ## 🃏 Guides (basics)
 
-* [Skin making basics](guides-basics/skin-making-basics/README.md)
-  * [Substance](guides-basics/skin-making-basics/substance.md)
-  * [Blender](guides-basics/skin-making-basics/blender.md)
-  * [Pilot editing](guides-basics/skin-making-basics/pilot-editing.md)
+* [Setting up the fun part](guides-basics/setting-up-the-fun-part/README.md)
+  * [Skin making basics](guides-basics/setting-up-the-fun-part/skin-making-basics.md)
+  * [Substance](guides-basics/setting-up-the-fun-part/substance.md)
+  * [Blender](guides-basics/setting-up-the-fun-part/blender.md)
+  * [Pilot editing](guides-basics/setting-up-the-fun-part/pilot-editing.md)
 
 ## GUIDES (advanced)
 
-* [Working with Substance](guides-advanced/working-with-substance/README.md)
-  * [Helpful extras](guides-advanced/working-with-substance/helpful-extras.md)
-  * [Metal with useful tips](guides-advanced/working-with-substance/metal-with-useful-tips.md)
+* [The fun part](guides-advanced/the-fun-part/README.md)
+  * [Working with Substance](guides-advanced/the-fun-part/working-with-substance.md)
+  * [Helpful extras](guides-advanced/the-fun-part/helpful-extras.md)
+  * [Metal with more tips](guides-advanced/the-fun-part/metal-with-more-tips.md)
