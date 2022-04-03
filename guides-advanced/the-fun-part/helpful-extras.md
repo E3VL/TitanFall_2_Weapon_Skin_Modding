@@ -36,7 +36,7 @@ This is what it looks like, and its function is pretty simple yet really handy. 
 
 Here is a before and after.
 
-![](<../../.gitbook/assets/grafik (20).png>)
+![](<../../.gitbook/assets/grafik (20) (1).png>)
 
 ![](<../../.gitbook/assets/grafik (53).png>)
 

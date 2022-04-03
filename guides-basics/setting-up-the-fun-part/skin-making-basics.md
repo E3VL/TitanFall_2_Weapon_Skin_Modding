@@ -14,7 +14,7 @@ Once you have all your files that you want to use from the game extracted, those
 
 So with the charge rifle imported (ptpov\_defender\_v\_defender in files) it is already obvious that its rotation is wrong. This is due to certain programs having a different order in its axis and as you can see it is already rotated by -90° so in my case I just need to set this to 0.
 
-![](<../../.gitbook/assets/grafik (20) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (20) (1) (1) (1).png>)
 
 Your gun will most likely disappear when u rotate it like that as it does not rotate around its centre of mass which will be fixed in a bit although this is optional. You can also see that its Scale is at 100, the reason for that is similar to the one for the rotation. While this does not matter for Substance Painter it is still best practice to work as cleanly as possible.
 

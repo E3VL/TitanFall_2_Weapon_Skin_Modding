@@ -24,6 +24,7 @@
   * [Substance](guides-basics/setting-up-the-fun-part/substance.md)
   * [Blender](guides-basics/setting-up-the-fun-part/blender.md)
   * [Pilot editing](guides-basics/setting-up-the-fun-part/pilot-editing.md)
+  * [Convert Metal Rough to Spec Gloss](guides-basics/setting-up-the-fun-part/convert-metal-rough-to-spec-gloss.md)
 
 ## GUIDES (advanced)
 
