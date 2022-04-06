@@ -28,7 +28,7 @@
 
 ## GUIDES (advanced)
 
-* [The fun part](guides-advanced/the-fun-part/README.md)
+* [The Fun part](guides-advanced/the-fun-part/README.md)
   * [Working with Substance](guides-advanced/the-fun-part/working-with-substance.md)
   * [Helpful extras](guides-advanced/the-fun-part/helpful-extras.md)
   * [Metal with more tips](guides-advanced/the-fun-part/metal-with-more-tips.md)

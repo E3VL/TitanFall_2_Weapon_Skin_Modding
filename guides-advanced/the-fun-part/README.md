@@ -1,7 +1,13 @@
 ---
-description: 'By: Alice'
+description: who called this fun?
 ---
 
-# The fun part
+# The Fun part
 
-Now we are going to go over how you can create realistic materials and any other style you might want to create from there on.
+#### Create realistic material guides creating other styles you might want.
+
+### Preview:
+
+!['Helpful extras' page](<../../.gitbook/assets/Rendering (1).jpg>)
+
+!['Working with Substance' page](<../../.gitbook/assets/grafik (13) (1).png>)
